@@ -1,0 +1,53 @@
+.login-form {
+  width: 340px;
+    margin: 100px auto;
+}
+  .login-form form {
+    margin-bottom: 15px;
+      background: #f7f7f7;
+      box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+      padding: 30px;
+  }
+  
+  .form-control, .btn {
+    margin: 10px;
+      min-height: 38px;
+      border-radius: 2px;
+  }
+  .btn {        
+      font-size: 15px;
+      background-color: #2b9915;
+  }
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#f26522;
+    font-family: Roboto;
+}
+  
+  li {
+    float: left;
+    font-family: Roboto;
+    padding-left: 30px;
+  }
+  
+  .footer{
+      background-color: #275a7a;
+      color: white;
+      margin: 10px;
+      text-align: center;
+      line-height: 40px;
+      font-family: "Segoe UI",Arial,sans-serif;
+  }
+
+
+  li a, .dropbtn1 {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }

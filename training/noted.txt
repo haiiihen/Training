@@ -1,0 +1,32 @@
+Main Folder
+
+1. engine
+	Berisi function, ajax php dan lib php pendukung
+	terdapat file config yg berisi settingan databases, url utama dan settingan yg umum
+		config.php
+		functions.php
+		ajax.php
+2. script
+	berisi script javascript dan file-file js pendukung lainnya
+		web.js
+		web-out.js
+3. themes 
+	berisi file style css dan file-file css pendukung lainnya
+	terdapat images pendukung
+		style-dev.css
+		folder images
+4. files
+	berisi sub-sub folder terkait data yang di upload
+5. pages
+	berisi konten terkait page-page yang ada di aplikasi, yang masuk dalam sub-sub folder
+	nama sub folder di dasarkan dari nama menu
+	dalam sub folder page tadi, secara umum terdapat file berikut :
+		main.php
+			list.php
+			new.php
+			edit.php
+6. index.php
+7. Note.txt atau Log.txt
+	Berisi terkait alur aplikasi dan catatan umum terkait developer / update aplikasi
+
+
